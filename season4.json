@@ -1,0 +1,20 @@
+{
+  "guys": ["Giovanni", "Cam", "Asaf", "John", "Prosper", "Sam", "Cameron", "Morgan", "Stephen", "Tyler"], 
+  "girls": ["Kaylen", "Victoria", "Francesca", "Emma", "Cameron", "Alysa", "Mikala", "Julia", "Nicole", "Tori"],
+  "rounds": [
+    {"pairs": ["('Giovanni', 'Kaylen')",
+               "('Cam', 'Victoria')",
+               "('Asaf', 'Francesca')",
+               "('John', 'Emma')",
+               "('Prosper', 'Camille')",
+               "('Sam', 'Alysa')",
+               "('Cameron', 'Mikala')",
+               "('Morgan', 'Julia')",
+               "('Stephen', 'Nicole')",
+               "('Tyler', 'Tori')"],
+     "num_matches": 3}
+  ],
+  "truth_booths": {
+    "('Prosper', 'Tori')": 0,
+  }
+}
